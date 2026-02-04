@@ -1,6 +1,6 @@
 # DMI Portfolio Website (Static HTML/CSS)
 
-This repository contains a clean, professional-looking **static portfolio website** used in **DevOps Micro Internship (DMI)** Week 1 to practice:
+This repository contains a clean, professional-looking **static portfolio website** used in **DevOps Micro Internship (DMI)** Week 4 to practice:
 - Linux basics
 - Nginx hosting
 - Deployment proof / ownership
@@ -36,7 +36,7 @@ Original:
 Add this line (example):
 
 ```html
-<p><strong>Deployed by:</strong> DMI Cohort 2 | Rahul Sharma | Group 4 | Week 1 | 16-01-2026</p>
+<p><strong>Deployed by:</strong> DMI Cohort 2 | Srinadh Kamireddy | Group 6 | Week 4 | 04-02-2026</p>
 ```
 
 ✅ This proof must be visible in your browser screenshot submission.
